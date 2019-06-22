@@ -1,3 +1,4 @@
+require "pry"
 def monopoly
 	monopoly = {}
 
