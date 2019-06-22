@@ -1,6 +1,7 @@
 require "pry"
 def monopoly
 	monopoly = {}
+	monopoly[:railroads] = {}
 
 end
 
